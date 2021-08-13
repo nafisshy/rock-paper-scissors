@@ -1,0 +1,18 @@
+#start-button{
+    background-color:darkgreen;
+    color:white;
+    width:120px;
+    height: 30px;
+    border-radius: 10%;
+    font-size: medium;
+}
+#start-button:hover{
+    border:gray;
+    background-color: green ;
+}
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
